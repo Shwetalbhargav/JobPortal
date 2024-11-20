@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "673225679ee871f430f45031"
+  },
+  "name": "Hridaan Shah",
+  "email": "hridaanShah.com",
+  "password": "$2a$10$4fVecjM671elxE0olpK1iOJv9XZqwcfyfeA6.nuoXZBEQucqXCvYW",
+  "skillset": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "jobTitle": "Software Developer",
+  "jobExperience": "2 years",
+  "mobileNumber": "1234567890",
+  "workPreference": "WFH",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732a8a8aa60c48535dc7bea"
+  },
+  "name": "Hridaan Shah",
+  "email": "hridaanShah@gmail.com",
+  "password": "$2a$10$8IPKIOwywStIs.2q.TYY5ef9MBKxgfUESmvM31qNOacHxhfZZg3eG",
+  "skillset": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "jobTitle": "Software Developer",
+  "jobExperience": "2 years",
+  "mobileNumber": "1234567890",
+  "workPreference": "WFH",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732a90aaa60c48535dc7bec"
+  },
+  "name": "Purav Shah",
+  "email": "PuravShah@gmail.com",
+  "password": "$2a$10$41ikbVE52JMpx8VZe4aDSOU9w3K.LJ.AQfWJodcHHdKAaoPn3Nmr2",
+  "skillset": [
+    "JavaScript",
+    "Java",
+    "C++"
+  ],
+  "jobTitle": "Software Developer",
+  "jobExperience": "5 years",
+  "mobileNumber": "658465545",
+  "workPreference": "WFO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338156608729a01c3ce5f1"
+  },
+  "name": "Purav",
+  "email": "Purav1980@gmail.com",
+  "password": "$2a$10$b3WZjmUOrjjwkOdXQv0.LOJLrK.iG9.fJooonRl.NtpJq3k2LJYNC",
+  "skillset": [],
+  "jobTitle": "Full Stack  Developer",
+  "jobExperience": "3Years",
+  "projectSubmission": "",
+  "jobProfileResume": "D:\\Job-Portal\\job-portal-backend\\uploads\\1731428694223-file.pdf",
+  "internshipExperienceLetter": "D:\\Job-Portal\\job-portal-backend\\uploads\\1731428694230-file.pdf",
+  "mobileNumber": "7629362523",
+  "coverLetter": null,
+  "workPreference": "WFO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6735e196512ddc1f10e9f1df"
+  },
+  "name": "Aditi",
+  "email": "aditi2010@gmail.com",
+  "password": "$2a$10$MJa/WljxjnnZB87PbH9NMO9b5A0.7bgDNw3aNv/HW2UL9ozMXK4vC",
+  "skillset": [
+    "Java"
+  ],
+  "jobTitle": "Full Stack  Developer",
+  "jobExperience": "3Years",
+  "projectSubmission": "",
+  "jobProfileResume": "D:\\Job-Portal\\job-portal-backend\\uploads\\1731584405992-shwetal shah-documents (1).pdf",
+  "internshipExperienceLetter": "D:\\Job-Portal\\job-portal-backend\\uploads\\1731584406039-5c11fdf304ffe5c2ccb6e38b32d3dbb9.pdf",
+  "mobileNumber": "983948372783",
+  "coverLetter": null,
+  "workPreference": "WFO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6735fb38ba2e9c5f6b13945b"
+  },
+  "name": "Rashmi",
+  "email": "Rashmi1988@gmail.com",
+  "password": "$2a$10$ACQo/2HUM9FGhifPHJx9M.GpJXKwwsdv1/NfgX1wKG.ZPSQN0plki",
+  "skillset": [
+    "JavaScript"
+  ],
+  "jobTitle": "Full Stack  Developer",
+  "jobExperience": "fresher",
+  "projectSubmission": "www.example.com",
+  "jobProfileResume": "D:\\Job-Portal\\job-portal-backend\\uploads\\1731590967997-case study-ansibleRoles.pdf",
+  "internshipExperienceLetter": "D:\\Job-Portal\\job-portal-backend\\uploads\\1731590968013-case study-kubernetes.pdf",
+  "mobileNumber": "593955933",
+  "coverLetter": null,
+  "workPreference": "WFH",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67377d437708cafd419fa476"
+  },
+  "name": "Shwetal Shah",
+  "email": "user@example.com",
+  "password": "$2a$10$wYUuStPhtJf5tMjB7qwNFOnplNfoEiCZO3qcR6QDG20/Y3kfIpauC",
+  "skillset": [
+    "Java"
+  ],
+  "jobTitle": "Full Stack  Developer",
+  "jobExperience": "fresher",
+  "projectSubmission": "",
+  "jobProfileResume": null,
+  "internshipExperienceLetter": null,
+  "mobileNumber": "09223283649",
+  "coverLetter": null,
+  "workPreference": "WFO",
+  "__v": 0
+}]
